@@ -1,4 +1,4 @@
-# **Finance Prompt Evaluator for Domain Specific **
+# **Finance Prompt Evaluator for Domain Specific**
 
 ## **Overview**
 
