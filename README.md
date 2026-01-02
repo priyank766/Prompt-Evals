@@ -1,4 +1,4 @@
-# **Finance Prompt Evaluator — Agents.md**
+# **Finance Prompt Evaluator for Domain Specific **
 
 ## **Overview**
 
